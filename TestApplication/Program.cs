@@ -12,6 +12,8 @@ namespace TestApplication
         {
 
             //test comment
+            //new comment
+            //blah blah
         }
     }
 }

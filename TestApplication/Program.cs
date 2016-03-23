@@ -20,6 +20,8 @@ namespace TestApplication
             //new branch 11
 
             //Updating Feature1
+            Console.WriteLine("hello world");
+            Console.ReadKey();
 
             //adding a comment... this will be to test just sync..
             //there were changes on the server.
